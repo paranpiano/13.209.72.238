@@ -5,3 +5,4 @@ debug.log
 .vs/
 superlists/__pycache__/
 lists/__pycache__/
+lists/migrations/__pycache__/
