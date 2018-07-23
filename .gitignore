@@ -4,3 +4,4 @@ superlists.pyproj
 debug.log
 .vs/
 superlists/__pycache__/
+lists/__pycache__/
