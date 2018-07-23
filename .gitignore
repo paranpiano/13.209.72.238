@@ -1,0 +1,6 @@
+db.sqlite3
+geckodriver.log
+superlists.pyproj
+debug.log
+.vs/
+superlists/__pycache__/
