@@ -6,3 +6,4 @@ debug.log
 superlists/__pycache__/
 lists/__pycache__/
 lists/migrations/__pycache__/
+/static
