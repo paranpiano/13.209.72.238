@@ -33,7 +33,7 @@ factory-boy==2.11.1
 Faker==0.8.15
 fake-useragent==0.1.10
 html5lib==1.0.1
-httpie==0.9.9
+httpie==1.0.3
 iamport-rest-client==0.7.0
 idna==2.6
 ipykernel==4.8.2
